@@ -13,7 +13,7 @@ Thursday, Dec 16, 2021
 1. [[01. Narrative|Narrative]]
 2. [[02. Sketch & Photos|Sketch and photographs]]
 3. [[03. Evidence|Evidence]]
-4. Lab requests & [[04. Autopsy Results|autopsy report]]
+4. [[Lab Request|Lab requests]] & [[04. Autopsy Results|autopsy report]]
 5. [[05.1 Police Report|Search warrants]] & [[05.2 Witness Statements|witness statements]]
 6. Suspect table
 7. [[07. Conclusion|Conclusion]]
