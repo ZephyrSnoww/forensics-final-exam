@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Daily Logs
 ---
 
 ### 29/11/2021

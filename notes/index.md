@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Daily Logs
 ---
 
 # Forensics Final
