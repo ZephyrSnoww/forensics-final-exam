@@ -18,6 +18,3 @@ Thursday, Dec 16, 2021
 6. Suspect table
 7. [[07. Conclusion|Conclusion]]
 8. [[Daily Logs|Daily logs]]
-
-![[Daily Logs|Daily logs]]
-![[Rubric]]

@@ -4,6 +4,6 @@ layout: default
 
 A spilled vial of chloroform was found in the deactivated fume hood next to the victim.
 
-![[photos/glasswear_1.png]]
-![[photos/glasswear_2.png]]
-![[photos/glasswear_3.png]]
+![1](/assets/photos/glasswear_1.png)
+![2](/assets/photos/glasswear_2.png)
+![3](/assets/photos/glasswear_3.png)
