@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Note
 ---
 
 John Smith was found holding a folder. Inside the folder was a note which said the following:

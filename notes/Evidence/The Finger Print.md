@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Finger Print
 ---
 
 Inside the cupboards near the victim's head has a bloody bunsonburner stand with a finger print.
