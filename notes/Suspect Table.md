@@ -1,3 +1,8 @@
+---
+layout: default
+title: Suspect Table
+---
+
 # Suspect Table
 
 ## Macdonald
