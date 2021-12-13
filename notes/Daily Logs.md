@@ -28,4 +28,5 @@ title: Daily Logs
 - Added evidence docs
 
 ### 13/12/2021
-- Started actual work on website
+- Started making website
+- Added measurments and descriptions
