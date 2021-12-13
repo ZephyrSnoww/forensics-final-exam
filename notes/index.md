@@ -6,13 +6,13 @@ layout: default
 
 The Sterlings - Glacier Heavner and Satchel Smith
  
- Case #: 72389
-Address: 1300 Diamond Dr, Los Alamos, NM 87544, Room E119
-Date: Friday, November 27th, 2021
-Type of crime (if known): Homicide
-Victim: John Smith
-Investigator: Sophie Heavner
-Assisted by: Acer Hardin
+ Case #: 72389 <br>
+Address: 1300 Diamond Dr, Los Alamos, NM 87544, Room E119 <br>
+Date: Friday, November 27th, 2021 <br>
+Type of crime (if known): Homicide <br>
+Victim: John Smith <br>
+Investigator: Sophie Heavner <br>
+Assisted by: Acer Hardin <br>
 
 ## Required Sections
 1. [[01. Narrative|Narrative]]
