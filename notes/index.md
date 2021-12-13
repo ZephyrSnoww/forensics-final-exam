@@ -1,7 +1,7 @@
 ---
 layout: default
-this is sthe obsidian one luol
-update the other one tooooooooooooooooo
+message1: this is sthe obsidian one luol
+message2: update the other one tooooooooooooooooo
 ---
 
 # Forensics Final
