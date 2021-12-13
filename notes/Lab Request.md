@@ -15,7 +15,9 @@ title: Lab Request
 The Sterlings
 
 ### Evidence
-Bunsen burner stand w/ fingerprint
+- Bunsen burner stand w/ fingerprint
+- Glasswear with chloroform spill
+- Folder with notes
 
 ### Forensic Analysis Requested
 Fingerprint analysis to pull a fingerprint
