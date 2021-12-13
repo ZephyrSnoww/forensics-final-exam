@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Forensics Final
 
 The Sterlings - Glacier Heavner and Satchel Smith

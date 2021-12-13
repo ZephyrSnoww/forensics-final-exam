@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 | Points | Task                                                                                                                                            |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10     | **Cover sheet** <br> - Name of team <br> - Names of team members <br> - Date and location of crime <br> - Neat and creative design              | 
