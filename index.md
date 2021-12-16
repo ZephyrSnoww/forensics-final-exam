@@ -20,6 +20,5 @@ The Sterlings - Glacier Heavner and Satchel Smith
 3. [[03. Evidence|Evidence]]
 4. [[Lab Request|Lab requests]] & [[04. Autopsy Results|autopsy report]]
 5. [[05.1 Police Report|Police Reports]] & [[05.2 Witness Statements|witness statements]]
-6. [[06. Suspect Table|Suspect Table]]
-7. [[07. Conclusion|Conclusion]]
-8. [[Daily Logs|Daily logs]]
+6. [[06. Conclusion|Conclusion]]
+7. [[Daily Logs|Daily logs]]
