@@ -3,6 +3,8 @@ layout: default
 title: Finger Print
 ---
 
+# The Finger Print
+
 Inside the cupboards near the victim's head has a bloody bunsonburner stand with a finger print.
 
 The print found matches that of Amanda Macdondald's right thumb.

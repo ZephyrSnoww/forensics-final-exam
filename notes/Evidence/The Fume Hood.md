@@ -3,6 +3,8 @@ layout: default
 title: Fume Hood
 ---
 
+# The Fume Hood
+
 A spilled vial of chloroform was found in the deactivated fume hood next to the victim.
 
 ![1](/assets/photos/glasswear_1.png)

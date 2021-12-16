@@ -30,3 +30,8 @@ title: Daily Logs
 ### 13/12/2021
 - Started making website
 - Added measurments and descriptions
+
+### 16/12/2021
+- Added extra information
+- Finished filling everything out
+- Turned in!
